@@ -1,2 +1,4 @@
 *.log
 .env
+dev-*plan.md
+.roo
